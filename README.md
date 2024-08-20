@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning MERN Stack Development<br><br>📫 How to reach me ahtshammustufa786@gmail.com</p>
+<p align="left">🌱 I’m a MERN Stack Developer<br><br>📫 How to reach me ahtshammustufa786@gmail.com</p>
 
 ###
 
